@@ -13,4 +13,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzyubi&" alt="itzyubi" /></p>
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-<p><img align="center" src="![](https://komarev.com/ghpvc/?username=itzYubi)" /></p>
+![](https://komarev.com/ghpvc/?username=itzYubi)
