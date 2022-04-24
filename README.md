@@ -11,4 +11,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzyubi&show_icons=true&locale=en" alt="itzyubi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzyubi&" alt="itzyubi" /></p>
-![Visitor Count](https://profile-counter.glitch.me/{itzYubi}/count.svg)
