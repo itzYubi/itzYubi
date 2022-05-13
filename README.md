@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzyubi&show_icons=true&theme=dark&text_color=79e651&bg_color=000000&hide_border=true&locale=en" alt="itzyubi" /></p>
 
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?itzYubi" frameborder="0"></iframe>
